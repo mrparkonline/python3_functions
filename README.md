@@ -18,3 +18,8 @@ By: J Park
         - Target Search
         - Two Lists Data Intersection
 - Exercise Set 3 (exercise3.py)
+    - **Functions Covered**:
+        - Average Calculator
+        - Factor Finder
+        - Fibonacci Calculator
+        - Random Integer List Generator
