@@ -1,4 +1,4 @@
-# U6E1 - Exercise Set 1 Solution
+# U6E1 - Exercise Set 1 Solutions
 # Mr Park
 
 '''
